@@ -41,12 +41,6 @@ Use the navigation bar to view the selected sections of the webpage.
 
 ## Credits
 
-Resources used to refactor this webpage include: 
-
-HTML Semantics: 
-
-https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
-
 README Guide: 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
