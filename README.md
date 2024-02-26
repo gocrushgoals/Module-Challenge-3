@@ -40,6 +40,11 @@ Visit the link to the webpage here https://gocrushgoals.github.io/module-challen
 Use the navigation bar to view the selected sections of the webpage.
 
 ## Credits
+Resources used to refine this project include:
+Xpert Learning Assistant
+Youtube guides
+Stack Overflow
+Geeksforgeeks.org
 
 README Guide: 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
