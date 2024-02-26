@@ -10,6 +10,11 @@ function generatePassword() {
   // 1. prompt the user for the password criteria 
   //   a. Password length 8 < 128
   //   b. choose to include lowercase, uppercase, numeric, and/or special characters
+    var length = prompt("Choose your password length from 8-128")
+    var lowercase = prompt("Would you like to use lowercase letters?")
+    var uppercase = prompt("would you like to use uppercase letters?")
+    var number = prompt("Would you like to include numbers?")
+
   // 2. Selecting a prompt will be validated--validate the input 
   // 3. At least one character type should be selected
   // 4. Password is generated after all prompts are answered
