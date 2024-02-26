@@ -5,7 +5,8 @@
 As an employee with access to sensitive data, I want to create an application that will allow me to randomly generate a password that meets criteria for a strong and secure password.
 
 Screenshot of page
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Add Screenshot!!!!!!!!!!!!!!!!
+![passwordgen](https://github.com/gocrushgoals/module-challenge-three/assets/157322992/c0d3a0aa-7fc3-40b2-9c25-347b2c5d7438)
+
 
 ## User Story
 
